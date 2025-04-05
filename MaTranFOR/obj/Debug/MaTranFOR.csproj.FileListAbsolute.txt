@@ -1,0 +1,7 @@
+D:\RevitAPI\23_01_API\MaTranFOR\obj\Debug\MaTranFOR.csproj.AssemblyReference.cache
+D:\RevitAPI\23_01_API\MaTranFOR\bin\Debug\MaTranFOR.exe.config
+D:\RevitAPI\23_01_API\MaTranFOR\bin\Debug\MaTranFOR.exe
+D:\RevitAPI\23_01_API\MaTranFOR\bin\Debug\MaTranFOR.pdb
+D:\RevitAPI\23_01_API\MaTranFOR\obj\Debug\MaTranFOR.csproj.CoreCompileInputs.cache
+D:\RevitAPI\23_01_API\MaTranFOR\obj\Debug\MaTranFOR.exe
+D:\RevitAPI\23_01_API\MaTranFOR\obj\Debug\MaTranFOR.pdb
