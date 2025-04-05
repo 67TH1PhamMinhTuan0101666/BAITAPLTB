@@ -1,0 +1,7 @@
+D:\RevitAPI\23_01_API\23_01_API\bin\Debug\23_01_API.exe.config
+D:\RevitAPI\23_01_API\23_01_API\bin\Debug\23_01_API.exe
+D:\RevitAPI\23_01_API\23_01_API\bin\Debug\23_01_API.pdb
+D:\RevitAPI\23_01_API\23_01_API\obj\Debug\23_01_API.csproj.AssemblyReference.cache
+D:\RevitAPI\23_01_API\23_01_API\obj\Debug\23_01_API.csproj.CoreCompileInputs.cache
+D:\RevitAPI\23_01_API\23_01_API\obj\Debug\23_01_API.exe
+D:\RevitAPI\23_01_API\23_01_API\obj\Debug\23_01_API.pdb
