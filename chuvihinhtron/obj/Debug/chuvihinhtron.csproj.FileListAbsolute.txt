@@ -1,0 +1,7 @@
+D:\RevitAPI\23_01_API\chuvihinhtron\bin\Debug\chuvihinhtron.exe.config
+D:\RevitAPI\23_01_API\chuvihinhtron\bin\Debug\chuvihinhtron.exe
+D:\RevitAPI\23_01_API\chuvihinhtron\bin\Debug\chuvihinhtron.pdb
+D:\RevitAPI\23_01_API\chuvihinhtron\obj\Debug\chuvihinhtron.csproj.AssemblyReference.cache
+D:\RevitAPI\23_01_API\chuvihinhtron\obj\Debug\chuvihinhtron.csproj.CoreCompileInputs.cache
+D:\RevitAPI\23_01_API\chuvihinhtron\obj\Debug\chuvihinhtron.exe
+D:\RevitAPI\23_01_API\chuvihinhtron\obj\Debug\chuvihinhtron.pdb
