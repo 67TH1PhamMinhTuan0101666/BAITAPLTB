@@ -1,0 +1,7 @@
+D:\RevitAPI\23_01_API\Matrantamgiac\bin\Debug\Matrantamgiac.exe.config
+D:\RevitAPI\23_01_API\Matrantamgiac\bin\Debug\Matrantamgiac.exe
+D:\RevitAPI\23_01_API\Matrantamgiac\bin\Debug\Matrantamgiac.pdb
+D:\RevitAPI\23_01_API\Matrantamgiac\obj\Debug\Matrantamgiac.csproj.AssemblyReference.cache
+D:\RevitAPI\23_01_API\Matrantamgiac\obj\Debug\Matrantamgiac.csproj.CoreCompileInputs.cache
+D:\RevitAPI\23_01_API\Matrantamgiac\obj\Debug\Matrantamgiac.exe
+D:\RevitAPI\23_01_API\Matrantamgiac\obj\Debug\Matrantamgiac.pdb
