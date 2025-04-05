@@ -1,0 +1,7 @@
+D:\ltbim\ltbim\bin\Debug\ltbim.exe.config
+D:\ltbim\ltbim\bin\Debug\ltbim.exe
+D:\ltbim\ltbim\bin\Debug\ltbim.pdb
+D:\ltbim\ltbim\obj\Debug\ltbim.csproj.AssemblyReference.cache
+D:\ltbim\ltbim\obj\Debug\ltbim.csproj.CoreCompileInputs.cache
+D:\ltbim\ltbim\obj\Debug\ltbim.exe
+D:\ltbim\ltbim\obj\Debug\ltbim.pdb

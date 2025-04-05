@@ -1,0 +1,7 @@
+D:\ltbim\bt2\bin\Debug\bt2.exe.config
+D:\ltbim\bt2\bin\Debug\bt2.exe
+D:\ltbim\bt2\bin\Debug\bt2.pdb
+D:\ltbim\bt2\obj\Debug\bt2.csproj.AssemblyReference.cache
+D:\ltbim\bt2\obj\Debug\bt2.csproj.CoreCompileInputs.cache
+D:\ltbim\bt2\obj\Debug\bt2.exe
+D:\ltbim\bt2\obj\Debug\bt2.pdb

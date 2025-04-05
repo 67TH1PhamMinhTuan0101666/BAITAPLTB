@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ltbim", "ltbim\ltbim.csproj", "{4E89144F-BC3C-4B31-A7F9-15712E1E0101}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bt2", "bt2\bt2.csproj", "{44713512-8321-436A-8865-231FCE62ADB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E89144F-BC3C-4B31-A7F9-15712E1E0101}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E89144F-BC3C-4B31-A7F9-15712E1E0101}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E89144F-BC3C-4B31-A7F9-15712E1E0101}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E89144F-BC3C-4B31-A7F9-15712E1E0101}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44713512-8321-436A-8865-231FCE62ADB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44713512-8321-436A-8865-231FCE62ADB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44713512-8321-436A-8865-231FCE62ADB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44713512-8321-436A-8865-231FCE62ADB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF736EC3-FFF0-475F-BD67-1BBE72F18323}
+	EndGlobalSection
+EndGlobal
