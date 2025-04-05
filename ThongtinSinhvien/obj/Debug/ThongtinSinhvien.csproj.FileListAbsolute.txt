@@ -1,0 +1,7 @@
+D:\RevitAPI\23_01_API\ThongtinSinhvien\bin\Debug\ThongtinSinhvien.exe.config
+D:\RevitAPI\23_01_API\ThongtinSinhvien\bin\Debug\ThongtinSinhvien.exe
+D:\RevitAPI\23_01_API\ThongtinSinhvien\bin\Debug\ThongtinSinhvien.pdb
+D:\RevitAPI\23_01_API\ThongtinSinhvien\obj\Debug\ThongtinSinhvien.csproj.AssemblyReference.cache
+D:\RevitAPI\23_01_API\ThongtinSinhvien\obj\Debug\ThongtinSinhvien.csproj.CoreCompileInputs.cache
+D:\RevitAPI\23_01_API\ThongtinSinhvien\obj\Debug\ThongtinSinhvien.exe
+D:\RevitAPI\23_01_API\ThongtinSinhvien\obj\Debug\ThongtinSinhvien.pdb
