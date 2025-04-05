@@ -1,0 +1,7 @@
+D:\RevitAPI\23_01_API\MatranCayThong\bin\Debug\MatranCayThong.exe.config
+D:\RevitAPI\23_01_API\MatranCayThong\bin\Debug\MatranCayThong.exe
+D:\RevitAPI\23_01_API\MatranCayThong\bin\Debug\MatranCayThong.pdb
+D:\RevitAPI\23_01_API\MatranCayThong\obj\Debug\MatranCayThong.csproj.AssemblyReference.cache
+D:\RevitAPI\23_01_API\MatranCayThong\obj\Debug\MatranCayThong.csproj.CoreCompileInputs.cache
+D:\RevitAPI\23_01_API\MatranCayThong\obj\Debug\MatranCayThong.exe
+D:\RevitAPI\23_01_API\MatranCayThong\obj\Debug\MatranCayThong.pdb
