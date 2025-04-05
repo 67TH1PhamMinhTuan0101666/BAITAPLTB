@@ -1,0 +1,7 @@
+D:\RevitAPI\23_01_API\vonglapFor\obj\Debug\vonglapFor.csproj.AssemblyReference.cache
+D:\RevitAPI\23_01_API\vonglapFor\bin\Debug\vonglapFor.exe.config
+D:\RevitAPI\23_01_API\vonglapFor\bin\Debug\vonglapFor.exe
+D:\RevitAPI\23_01_API\vonglapFor\bin\Debug\vonglapFor.pdb
+D:\RevitAPI\23_01_API\vonglapFor\obj\Debug\vonglapFor.csproj.CoreCompileInputs.cache
+D:\RevitAPI\23_01_API\vonglapFor\obj\Debug\vonglapFor.exe
+D:\RevitAPI\23_01_API\vonglapFor\obj\Debug\vonglapFor.pdb
