@@ -1,0 +1,7 @@
+D:\RevitAPI\23_01_API\ThucHanhClass_20_02\bin\Debug\ThucHanhClass_20_02.exe.config
+D:\RevitAPI\23_01_API\ThucHanhClass_20_02\bin\Debug\ThucHanhClass_20_02.exe
+D:\RevitAPI\23_01_API\ThucHanhClass_20_02\bin\Debug\ThucHanhClass_20_02.pdb
+D:\RevitAPI\23_01_API\ThucHanhClass_20_02\obj\Debug\ThucHanhClass_20_02.csproj.AssemblyReference.cache
+D:\RevitAPI\23_01_API\ThucHanhClass_20_02\obj\Debug\ThucHanhClass_20_02.csproj.CoreCompileInputs.cache
+D:\RevitAPI\23_01_API\ThucHanhClass_20_02\obj\Debug\ThucHanhClass_20_02.exe
+D:\RevitAPI\23_01_API\ThucHanhClass_20_02\obj\Debug\ThucHanhClass_20_02.pdb
